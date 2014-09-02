@@ -4,9 +4,11 @@ Feel free to fork, send pull requests, and use the presentation as a learning or
 
 If you use these materials for your own presentation, please let me know!  
 
+The notebook uses print statements which makes it incompatible with Python 3, this will be addressed soon.
+
 To use:
 
 1. Clone this repo: `git clone git@github.com:rustyrazorblade/python-presentation.git`
-2. Create a virtualen
+2. Create a virtualenv (virtualenvwrapper encouraged: http://virtualenvwrapper.readthedocs.org/en/latest/index.html)
 3. Install requirements: `pip install -r requirements.txt`
 4. Start ipython notebook: `ipython notebook`
