@@ -6,7 +6,7 @@ If you use these materials for your own presentation, please let me know!
 
 The notebook uses print statements which makes it incompatible with Python 3, this will be addressed soon.
 
-**Windows users**: http://www.luketillman.com/intro-to-python-and-cassandra-presentation-on-windows/
+**Windows users**: Luke Tillman has provided instructions on getting up and running here: http://www.luketillman.com/intro-to-python-and-cassandra-presentation-on-windows/
 
 To use:
 
